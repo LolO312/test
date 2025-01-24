@@ -4,5 +4,5 @@ def square(a):
         res.append(i**2)
     return res
 
-nums = [1, 31, 11, 5]
+nums = [2, 31, 11, 5]
 print(square(nums))
