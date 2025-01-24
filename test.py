@@ -6,3 +6,4 @@ def square(a):
 
 nums = [2, 31, 11, 5]
 print(square(nums))
+print("fsds")
